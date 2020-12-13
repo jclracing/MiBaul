@@ -2,3 +2,4 @@ Buenos dias.
 Me llamo Jorge.
 Estoy experimentando con git.
 Acabo de crear una nueva rama llamada desarrollo con exito.
+Creando conflicto.
